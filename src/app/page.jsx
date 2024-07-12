@@ -1,3 +1,4 @@
+// if i replace p-24 to p-25,the effect of padding p-24 is removed since there is no documentation of p-25 in tailwindcss... though it works if u do p-[100px]
 import Image from "next/image";
 
 export default function Home() {
